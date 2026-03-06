@@ -32,6 +32,6 @@ If you need help finding the right value(s), head on over to [the theme's websit
 No worries! Just head on over to my <a href="https://discord.gg/dPpe3QxXbP" target="_blank">Discord Server</a>, you'll be sure to find whatever help you need customizing over there! :)
 
 <h2>Want to support me?</h2>
-If you want to support me, you can do so either on <a href="https://www.patreon.com/bates" target="_blank">Patreon</a>, <a href="https://www.paypal.com/paypalme/floriancegledi" target="_blank">Paypal</a> or <a href="https://ko-fi.com/b4t3s">Ko-Fi</a>!
+If you want to support me, you can do so either on <a href="https://x.com/ledragmaar" target="_blank">Twitter</a>, <a href="https://paypal.me/dragvlr" target="_blank">Paypal</a> or <a href="https://ko-fi.com/ledragmaar">Ko-Fi</a>!
 
 All donations are, of course, optional but greatly appreciated either way!
